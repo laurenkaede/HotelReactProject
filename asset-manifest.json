@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/https//laurenkaede.github.io/HotelReactProject/static/css/main.5c4fb615.chunk.css",
+    "main.js": "/https//laurenkaede.github.io/HotelReactProject/static/js/main.14458d6d.chunk.js",
+    "main.js.map": "/https//laurenkaede.github.io/HotelReactProject/static/js/main.14458d6d.chunk.js.map",
+    "runtime-main.js": "/https//laurenkaede.github.io/HotelReactProject/static/js/runtime-main.e7a18536.js",
+    "runtime-main.js.map": "/https//laurenkaede.github.io/HotelReactProject/static/js/runtime-main.e7a18536.js.map",
+    "static/js/2.66ecc77d.chunk.js": "/https//laurenkaede.github.io/HotelReactProject/static/js/2.66ecc77d.chunk.js",
+    "static/js/2.66ecc77d.chunk.js.map": "/https//laurenkaede.github.io/HotelReactProject/static/js/2.66ecc77d.chunk.js.map",
+    "index.html": "/https//laurenkaede.github.io/HotelReactProject/index.html",
+    "precache-manifest.3771ce2776d83baeb94c3f5af7069652.js": "/https//laurenkaede.github.io/HotelReactProject/precache-manifest.3771ce2776d83baeb94c3f5af7069652.js",
+    "service-worker.js": "/https//laurenkaede.github.io/HotelReactProject/service-worker.js",
+    "static/css/main.5c4fb615.chunk.css.map": "/https//laurenkaede.github.io/HotelReactProject/static/css/main.5c4fb615.chunk.css.map",
+    "static/js/2.66ecc77d.chunk.js.LICENSE.txt": "/https//laurenkaede.github.io/HotelReactProject/static/js/2.66ecc77d.chunk.js.LICENSE.txt",
+    "static/media/person1.png": "/https//laurenkaede.github.io/HotelReactProject/static/media/person1.2ab168b3.png",
+    "static/media/person2.png": "/https//laurenkaede.github.io/HotelReactProject/static/media/person2.b03621aa.png",
+    "static/media/person3.png": "/https//laurenkaede.github.io/HotelReactProject/static/media/person3.a9dc8e5e.png",
+    "static/media/place1.png": "/https//laurenkaede.github.io/HotelReactProject/static/media/place1.4a418ae2.png",
+    "static/media/place2.png": "/https//laurenkaede.github.io/HotelReactProject/static/media/place2.c553455d.png",
+    "static/media/place3.png": "/https//laurenkaede.github.io/HotelReactProject/static/media/place3.7319af7a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7a18536.js",
+    "static/js/2.66ecc77d.chunk.js",
+    "static/css/main.5c4fb615.chunk.css",
+    "static/js/main.14458d6d.chunk.js"
+  ]
+}
